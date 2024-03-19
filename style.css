@@ -9,6 +9,12 @@
 .bg_color{
     background-color: #042838;
 }
+.fixd-nev{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
  
 
 
